@@ -18,12 +18,12 @@ Currently based at the **Institute of Physics, Czech Academy of Sciences in the 
 
 -  **Deep learning for astrophysics**
 
-  [Deep-learning-inference-of-the-neutron-star-equation-of-state](https://github.com/ippocratiss/Deep-learning-inference-of-the-neutron-star-equation-of-state)
+    [Deep-learning-inference-of-the-neutron-star-equation-of-state](https://github.com/ippocratiss/Deep-learning-inference-of-the-neutron-star-equation-of-state)
 
 -  **ML for weather forecasting**
   
-  [minRNNs-for-weather-prediction](https://github.com/ippocratiss/minRNNs-for-weather-prediction)
-  [Weather_GNN](https://github.com/ippocratiss/Weather_GNN) (fork)
+    [minRNNs-for-weather-prediction](https://github.com/ippocratiss/minRNNs-for-weather-prediction)
+    [Weather_GNN](https://github.com/ippocratiss/Weather_GNN) (fork)
 
 ---
 
