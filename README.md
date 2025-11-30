@@ -9,7 +9,7 @@ Currently based at the **Institute of Physics, Czech Academy of Sciences in the 
 
 -  **GPU-based Bayesian inference for gravitational waves**
   
-   [EMRI_MC](https://github.com/ippocratiss/EMRI_MC): GPU-based Bayesian inference for EMRI gravitational waveforms (see arXiv:2311.17174).
+   [EMRI_MC](https://github.com/ippocratiss/EMRI_MC) (with Roberto Oliveri, Observatory of Paris)
 
 - **Deep learning for chaos detection**
   
@@ -36,7 +36,8 @@ Currently based at the **Institute of Physics, Czech Academy of Sciences in the 
 
 ---
 
-### Publications (selected)
+### Publications
+A full list of publications and research statistics can be found through the following link:
 
 https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20saltas%2Ci&ui-citation-summary=true
 
