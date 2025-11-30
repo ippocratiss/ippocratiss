@@ -7,7 +7,7 @@ Currently based at the **Institute of Physics, Czech Academy of Sciences in the 
 
 ### Recent publications
 
-- 🌀 ** GPU-based Bayesian inference for gravitational waves**  
+- 🌀 **GPU-based Bayesian inference for gravitational waves**  
   - [EMRI_MC](https://github.com/ippocratiss/EMRI_MC): GPU-based Bayesian inference for EMRI gravitational waveforms (see arXiv:2311.17174).
 
 
