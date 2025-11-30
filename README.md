@@ -8,18 +8,18 @@ Currently based at the **Institute of Physics, Czech Academy of Sciences in the 
 ### Recent publications
 
 -  **GPU-based Bayesian inference for gravitational waves**  
-  - [EMRI_MC](https://github.com/ippocratiss/EMRI_MC): GPU-based Bayesian inference for EMRI gravitational waveforms (see arXiv:2311.17174).
+   [EMRI_MC](https://github.com/ippocratiss/EMRI_MC): GPU-based Bayesian inference for EMRI gravitational waveforms (see arXiv:2311.17174).
 
 - **Deep learning for chaos detection**
--  [Deep-classifier-for-chaos-and-order](https://github.com/ippocratiss/Deep-classifier-for-chaos-and-order)  
-- [Generative-adversarial-network-for-complex-systems](https://github.com/ippocratiss/Generative-adversarial-network-for-complex-systems)
+  [Deep-classifier-for-chaos-and-order](https://github.com/ippocratiss/Deep-classifier-for-chaos-and-order)  
+  [Generative-adversarial-network-for-complex-systems](https://github.com/ippocratiss/Generative-adversarial-network-for-complex-systems)
 
 -  **Deep learning for astrophysics**
-- [Deep-learning-inference-of-the-neutron-star-equation-of-state](https://github.com/ippocratiss/Deep-learning-inference-of-the-neutron-star-equation-of-state)
+  [Deep-learning-inference-of-the-neutron-star-equation-of-state](https://github.com/ippocratiss/Deep-learning-inference-of-the-neutron-star-equation-of-state)
 
 -  **ML for weather forecasting**
-- [minRNNs-for-weather-prediction](https://github.com/ippocratiss/minRNNs-for-weather-prediction)
-- [Weather_GNN](https://github.com/ippocratiss/Weather_GNN) (fork)
+  [minRNNs-for-weather-prediction](https://github.com/ippocratiss/minRNNs-for-weather-prediction)
+  [Weather_GNN](https://github.com/ippocratiss/Weather_GNN) (fork)
 
 ---
 
