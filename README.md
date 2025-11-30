@@ -23,21 +23,14 @@ Currently based at the **Czech Academy of Sciences (Prague)**.
 
 ### Tools & interests
 
-- Python (PyTorch, JAX/NumPy, SciPy ecosystem)
-- High-performance & GPU computing (CUDA, parallel Monte Carlo)
-- Bayesian inference, time series, transformers, graph neural networks
+- Python (PyTorch, TensorFlow), Fortran
+- High-performance & GPU computing 
+- Bayesian inference, time series, transformers, LLMs, generative modelling, diffusion models, graph neural networks
 
 ---
 
 ### Publications (selected)
 
-- EMRI_MC – GPU-based inference for EMRIs (arXiv:2311.17174)  
-- Dark Matter-Induced Stellar Oscillations (arXiv:2305.03085)  
-- Deep classifier for chaos vs order (arXiv:2402.12359)
+https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20saltas%2Ci&ui-citation-summary=true
 
 ---
-
-### How to reach me
-
-- Affiliation: Czech Academy of Sciences, Prague  
-- Email / webpage: *[add links]*  
