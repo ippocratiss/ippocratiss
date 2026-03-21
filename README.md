@@ -24,7 +24,9 @@ Currently based at the **Institute of Physics, Czech Academy of Sciences in the 
   
   [Deep-classifier-for-chaos-and-order](https://github.com/ippocratiss/Deep-classifier-for-chaos-and-order)
 
-  [Generative-adversarial-network-for-complex-systems](https://github.com/ippocratiss/Generative-adversarial-network-for-complex-systems)
+- **Generative-adversarial-network-for-complex-systems**
+
+  [https://github.com/ippocratiss/Generative-adversarial-network-for-complex-systems]
 
 -  **Deep learning for astrophysics**
   
