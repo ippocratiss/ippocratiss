@@ -32,13 +32,13 @@ Theoretical physicist working at the intersection of **astrophysics**, **particl
   
     Bayesian deep learning pipeline to solve the inverse problem of inferring the state of dense matter in neutron stars
 
-    [https://github.com/ippocratiss/Deep-learning-inference-of-the-neutron-star-equation-of-state] 
+    https://github.com/ippocratiss/Deep-learning-inference-of-the-neutron-star-equation-of-state
 
 -  **ML for weather forecasting**
   
-    [minRNNs-for-weather-prediction](https://github.com/ippocratiss/minRNNs-for-weather-prediction) 
+    https://github.com/ippocratiss/minRNNs-for-weather-prediction
    
-    [Weather_GNN](https://github.com/ippocratiss/Weather_GNN) 
+    https://github.com/ippocratiss/Weather_GNN
 
 ---
 
