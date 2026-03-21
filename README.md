@@ -12,17 +12,21 @@ Currently based at the **Institute of Physics, Czech Academy of Sciences in the 
     https://github.com/GraviBERT/GraviBERT
  
 -  **GPU-based Bayesian inference for gravitational waves**
+- 
   A GPU-accelerated code for Bayesian analysis of gravitational-wave time series (simulation and inverse modelling)
  
    [EMRI_MC](https://github.com/ippocratiss/EMRI_MC) 
 
 - **Deep learning for chaos detection**
+  
 Anomaly detection model for chaotic dynamics in dynamical systems with convolutional networks.
   
   [Deep-classifier-for-chaos-and-order](https://github.com/ippocratiss/Deep-classifier-for-chaos-and-order)  
   [Generative-adversarial-network-for-complex-systems](https://github.com/ippocratiss/Generative-adversarial-network-for-complex-systems)
 
 -  **Deep learning for astrophysics**
+  
+Bayesian deep learning pipeline to solve the inverse problem of inferring the state of dense matter in neutron stars
 
     [Deep-learning-inference-of-the-neutron-star-equation-of-state](https://github.com/ippocratiss/Deep-learning-inference-of-the-neutron-star-equation-of-state) (with Giulia Ventagli, Prague)
 
