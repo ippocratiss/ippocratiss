@@ -36,9 +36,9 @@ Bayesian deep learning pipeline to solve the inverse problem of inferring the st
 
 -  **ML for weather forecasting**
   
-    [minRNNs-for-weather-prediction](https://github.com/ippocratiss/minRNNs-for-weather-prediction) (with Vítězslav Hušek, Technical U. - Prague)
+    [minRNNs-for-weather-prediction](https://github.com/ippocratiss/minRNNs-for-weather-prediction) 
    
-    [Weather_GNN](https://github.com/ippocratiss/Weather_GNN) (With Ben Ruggles, Portsmouth University)
+    [Weather_GNN](https://github.com/ippocratiss/Weather_GNN) 
 
 ---
 
