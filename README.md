@@ -22,11 +22,11 @@ Theoretical physicist working at the intersection of **astrophysics**, **particl
   
   Anomaly detection model for chaotic dynamics in dynamical systems with convolutional networks.
   
-  [Deep-classifier-for-chaos-and-order](https://github.com/ippocratiss/Deep-classifier-for-chaos-and-order)
+  https://github.com/ippocratiss/Deep-classifier-for-chaos-and-order
 
 - **Generative-adversarial-network-for-complex-systems**
 
-  [https://github.com/ippocratiss/Generative-adversarial-network-for-complex-systems]
+   https://github.com/ippocratiss/Generative-adversarial-network-for-complex-systems
 
 -  **Deep-learning-inference-of-the-neutron-star-equation-of-state**
   
