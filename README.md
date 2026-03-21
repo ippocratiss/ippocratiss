@@ -7,12 +7,14 @@ Currently based at the **Institute of Physics, Czech Academy of Sciences in the 
 
 ### Recent projects
 - **Pre-trained transformer inference for gravitational-wave time series**
+  Foundation-style model for inference of gravitational wave signals with domain adaptation, accelerated training and performance.
+  
  https://github.com/GraviBERT/GraviBERT
  
 -  **GPU-based Bayesian inference for gravitational waves**
   A GPU-accelerated code for Bayesian analysis of gravitational-wave time series (simulation and inverse modelling)
  
-   [EMRI_MC](https://github.com/ippocratiss/EMRI_MC) (with Roberto Oliveri, Observatory of Paris)
+   [EMRI_MC](https://github.com/ippocratiss/EMRI_MC) 
 
 - **Deep learning for chaos detection**
   
