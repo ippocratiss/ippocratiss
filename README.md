@@ -17,6 +17,7 @@ Currently based at the **Institute of Physics, Czech Academy of Sciences in the 
    [EMRI_MC](https://github.com/ippocratiss/EMRI_MC) 
 
 - **Deep learning for chaos detection**
+Anomaly detection model for chaotic dynamics in dynamical systems with convolutional networks.
   
   [Deep-classifier-for-chaos-and-order](https://github.com/ippocratiss/Deep-classifier-for-chaos-and-order)  
   [Generative-adversarial-network-for-complex-systems](https://github.com/ippocratiss/Generative-adversarial-network-for-complex-systems)
