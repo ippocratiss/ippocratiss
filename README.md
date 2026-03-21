@@ -28,11 +28,11 @@ Currently based at the **Institute of Physics, Czech Academy of Sciences in the 
 
   [https://github.com/ippocratiss/Generative-adversarial-network-for-complex-systems]
 
--  **Deep learning for astrophysics**
+-  **Deep-learning-inference-of-the-neutron-star-equation-of-state**
   
 Bayesian deep learning pipeline to solve the inverse problem of inferring the state of dense matter in neutron stars
 
-    [Deep-learning-inference-of-the-neutron-star-equation-of-state](https://github.com/ippocratiss/Deep-learning-inference-of-the-neutron-star-equation-of-state) (with Giulia Ventagli, Prague)
+    [https://github.com/ippocratiss/Deep-learning-inference-of-the-neutron-star-equation-of-state] 
 
 -  **ML for weather forecasting**
   
