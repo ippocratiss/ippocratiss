@@ -1,7 +1,7 @@
 # Ippocratis Saltas
 
 Theoretical physicist working at the intersection of **astrophysics**, **particle physics**, **gravitational waves**, and **machine learning**.  
-Currently based in the beautiful city of Prague**.
+
 
 ---
 
