@@ -32,7 +32,7 @@ Currently based at the **Institute of Physics, Czech Academy of Sciences in the 
   
 Bayesian deep learning pipeline to solve the inverse problem of inferring the state of dense matter in neutron stars
 
-    [https://github.com/ippocratiss/Deep-learning-inference-of-the-neutron-star-equation-of-state] 
+  [https://github.com/ippocratiss/Deep-learning-inference-of-the-neutron-star-equation-of-state] 
 
 -  **ML for weather forecasting**
   
