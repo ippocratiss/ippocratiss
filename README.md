@@ -1,6 +1,6 @@
 # Ippocratis Saltas
 
-Theoretical physicist working at the intersection of **astrophysics**, **particle physics**, **gravitational waves**, and **machine learning**.  
+Theoretical physicist by training, working on modelling and machine learning in astrophysics.  
 
 
 ---
