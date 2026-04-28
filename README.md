@@ -49,7 +49,7 @@ Theoretical physicist by training, working on modelling and machine learning in 
 ### Tools & interests
 
 - Python (PyTorch, TensorFlow), Fortran
-- High-performance & GPU computing 
+- High-performance & GPU computing (Predominantly Cuda)
 - Bayesian inference, time series, transformers, LLMs, generative modelling, diffusion models, graph neural networks
 
 ---
