@@ -1,4 +1,4 @@
-# Ippocratis Saltas
+# Ippocratis Saltas, PhD
 
 Theoretical physicist by training, working on modelling and machine learning in astrophysics.  
 
