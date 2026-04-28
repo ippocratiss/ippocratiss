@@ -50,7 +50,7 @@ Theoretical physicist by training, working on modelling and machine learning in 
 
 - Python (PyTorch, TensorFlow), Fortran
 - High-performance & GPU computing (Predominantly Cuda)
-- Bayesian inference, time series, transformers, LLMs, generative modelling, diffusion models, graph neural networks
+- Bayesian inference and inverse modelling, time series, transformers, generative models, diffusion models, graph neural networks, LLMs, agentic AI.
 
 ---
 
