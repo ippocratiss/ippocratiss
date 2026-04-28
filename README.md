@@ -20,7 +20,7 @@ Theoretical physicist by training, working on machine learning, Bayesian statist
 
 - **Deep learning for chaos detection**
   
-  Anomaly detection model for chaotic dynamics in dynamical systems with convolutional networks with CNNs.
+  Anomaly detection model for chaotic dynamics in dynamical systems with deep convolutional networks.
   
   https://github.com/ippocratiss/Deep-classifier-for-chaos-and-order
 
