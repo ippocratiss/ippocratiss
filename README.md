@@ -8,33 +8,37 @@ Theoretical physicist by training, working on modelling and machine learning in 
 ### Recent projects
 - **Pre-trained transformer inference for gravitational-wave time series**
   
-    Foundation-style model for inference of gravitational wave signals with domain adaptation, accelerated training and performance.
+    Foundation-style model for inference of gravitational wave signals with domain adaptation, accelerated training and performance. Based predominantly on CNN and transformer architecture.
   
     https://github.com/GraviBERT/GraviBERT
  
 -  **GPU-based Bayesian inference for gravitational waves**
   
-   A GPU-accelerated code for Bayesian analysis of gravitational-wave time series (simulation and inverse modelling)
- 
+   A GPU/cuda-accelerated code for simulation Bayesian forecasts for gravitational-wave time series.
+   
    [EMRI_MC](https://github.com/ippocratiss/EMRI_MC) 
 
 - **Deep learning for chaos detection**
   
-  Anomaly detection model for chaotic dynamics in dynamical systems with convolutional networks.
+  Anomaly detection model for chaotic dynamics in dynamical systems with convolutional networks with CNNs.
   
   https://github.com/ippocratiss/Deep-classifier-for-chaos-and-order
 
 - **Generative-adversarial-network-for-complex-systems**
 
+  Generative model which learns and reconstructs chaotic dynamical systems. 
+
    https://github.com/ippocratiss/Generative-adversarial-network-for-complex-systems
 
--  **Deep-learning-inference-of-the-neutron-star-equation-of-state**
+-  **Deep network pipeline for Bayesian inverse modelling of neutron stars**
   
-    Bayesian deep learning pipeline to solve the inverse problem of inferring the state of dense matter in neutron stars
+    Bayesian deep learning pipeline to solve the inverse problem of inferring the state of dense matter in neutron stars. Based predominantly on probabilistic Bayesian neural networks.
 
     https://github.com/ippocratiss/Deep-learning-inference-of-the-neutron-star-equation-of-state
 
--  **ML for weather forecasting**
+-  **Weather forecasting with Graph Neural Networks **
+
+  95% accuracy on weather forecasting with deep graph networks. 
   
     https://github.com/ippocratiss/minRNNs-for-weather-prediction
    
