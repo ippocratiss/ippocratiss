@@ -36,9 +36,9 @@ Theoretical physicist by training, working on modelling and machine learning in 
 
     https://github.com/ippocratiss/Deep-learning-inference-of-the-neutron-star-equation-of-state
 
--  **Weather forecasting with Graph Neural Networks **
+-  **Weather forecasting with Graph Neural Networks**
 
-  95% accuracy on weather forecasting with deep graph networks. 
+  The model uses weather stations as nodes to predict the weather in the UK. It achieves > 95% accuracy on temperature forecasting. 
   
     https://github.com/ippocratiss/minRNNs-for-weather-prediction
    
