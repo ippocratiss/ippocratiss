@@ -1,6 +1,6 @@
 # Ippocratis Saltas, PhD
 
-Theoretical physicist by training, working on modelling and machine learning in astrophysics.  
+Theoretical physicist by training, working on machine learning, Bayesian statistics, and funamental physics.  
 
 
 ---
