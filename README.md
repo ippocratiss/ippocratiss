@@ -6,9 +6,9 @@ Theoretical physicist by training, working on machine learning, Bayesian statist
 ---
 
 ### Recent projects
-- **Pre-trained transformer inference for gravitational-wave time series**
+- **Pre-trained transformer inference towards a foundation model for astrophysical time series**
   
-    Foundation-style model for inference of gravitational wave signals with domain adaptation, accelerated training and performance. Based predominantly on CNN and transformer architecture.
+    Pre-trained model for inference of gravitational-wave signals with domain adaptation, accelerated training and performance. Based predominantly on transformer-encoder architecture and Bert-style pretraining.
   
     https://github.com/GraviBERT/GraviBERT
  
