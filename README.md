@@ -33,6 +33,7 @@ Researcher in physics, machine learning, and data science. Analytical modelling,
   Probabilistic deep learning pipeline for inferring the equation of state of dense matter in neutron stars, with uncertainty quantification. End-to-end: data generation, training, and evaluation.
 
   https://github.com/ippocratiss/Deep-learning-inference-of-the-neutron-star-equation-of-state
+  
   Zenodo link: https://zenodo.org/records/11216586
 
 - **Weather forecasting with GNNs and RNNs**
