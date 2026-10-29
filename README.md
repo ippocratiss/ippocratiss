@@ -11,6 +11,8 @@ Researcher in physics, machine learning, and data science. Theory modelling, end
   The first pre-trained transformer (BERT-style) that learns universal waveform patterns and adapts to new detectors and modelling assumptions through zero-shot or fine-tuning. Up to 15× faster training and 40% accuracy improvement over previous pipelines.
 
   https://github.com/GraviBERT/GraviBERT
+  
+  Paper: https://arxiv.org/abs/2512.21390
 
 - **EMRI_MC — GPU-accelerated Bayesian inference for the LISA satellite**
 
@@ -20,6 +22,7 @@ Researcher in physics, machine learning, and data science. Theory modelling, end
 
   Zenodo link: https://zenodo.org/records/14039556
 
+  Paper: https://arxiv.org/abs/2311.17174
 
 - **Deep learning classifier for chaotic anomaly detection**
 
@@ -27,6 +30,7 @@ Researcher in physics, machine learning, and data science. Theory modelling, end
 
   https://github.com/ippocratiss/Deep-classifier-for-chaos-and-order
 
+  Paper: https://arxiv.org/abs/2402.12359
 
 - **Probabilistic deep learning for neutron star inverse modelling**
 
@@ -35,6 +39,8 @@ Researcher in physics, machine learning, and data science. Theory modelling, end
   https://github.com/ippocratiss/Deep-learning-inference-of-the-neutron-star-equation-of-state
   
   Zenodo link: https://zenodo.org/records/11216586
+
+  Paper: https://arxiv.org/abs/2405.17908
 
 - **Weather forecasting with GNNs and RNNs**
 
