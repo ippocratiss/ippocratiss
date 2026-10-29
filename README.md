@@ -8,7 +8,7 @@ Researcher in physics, machine learning, and data science. Analytical modelling,
 
 - **GraviBERT — Pre-trained transformer model for gravitational-wave time series**
 
-  Pre-trained transformer (BERT-style) that learns universal waveform patterns and adapts to new detectors and modelling assumptions. 15× faster inference and 40% accuracy improvement over conventional approaches.
+  Pre-trained transformer (BERT-style) that learns universal waveform patterns and adapts to new detectors and modelling assumptions. Up to 15× faster training and 40% accuracy improvement over previous pipelines.
 
   https://github.com/GraviBERT/GraviBERT
 
