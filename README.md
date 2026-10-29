@@ -1,4 +1,4 @@
-## Ippocratis Saltas, PhD
+3## Ippocratis Saltas, PhD
 
 Researcher in physics, machine learning, and data science. Analytical modelling, end-to-end building of ML and AI systems, and high-performance computing pipelines for analysis and Bayesian parameter inference.
 
@@ -46,7 +46,7 @@ Researcher in physics, machine learning, and data science. Analytical modelling,
 
 - **RAG/LLM knowledge assistant**
 
-  Agentic retrieval-augmented assistant that searches, retrieves and summarises technical documents using LLMs, vector search and tool-use. Deployed internally for 20+ users.
+  Agentic retrieval-augmented assistant that searches, retrieves and summarises technical documents using LLMs, vector search and tool-use. 
 
   [LINK]
 
