@@ -21,7 +21,7 @@ Researcher in physics, machine learning, and data science. Analytical modelling,
   Zenodo link: https://zenodo.org/records/14039556
 
 
-- **Deep learning classifier for non-linear anomaly detection**
+- **Deep learning classifier for chaotic anomaly detection**
 
   Anomaly detection model for non-linear chaotic orbits chaotic in 2D phase spaces using deep convolutional networks. 95% precision.
 
@@ -44,19 +44,19 @@ Researcher in physics, machine learning, and data science. Analytical modelling,
   2) Minimal RNN variant for weather prediction.
      https://github.com/ippocratiss/minRNNs-for-weather-prediction
 
-- **RAG/LLM knowledge assistant**
-
-  Agentic retrieval-augmented assistant that searches, retrieves and summarises technical documents using LLMs, vector search and tool-use. 
-
-  [LINK]
-
 - **GAN for complex dynamical systems**
 
   Generative model that learns and reconstructs the phase space of chaotic dynamical systems using Generative Adversarial Networks (GANs).
 
   https://github.com/ippocratiss/Generative-adversarial-network-for-complex-systems
+
+- **RAG/LLM knowledge assistant**
+
+  Agentic retrieval-augmented assistant that searches, retrieves and summarises technical documents using LLMs, vector search and tool-use. 
+
+  [LINK]
 ---
 
 ### Tools
 
-Python (PyTorch, TensorFlow), Fortran · CUDA, · Bayesian inference and inverse modelling, transformers, diffusion models, GNNs, LLMs, agents
+Python, PyTorch, TensorFlow · CUDA, HPC, Fortran · Bayesian and probabilistic inference, inverse modelling, uncertainty quantification · Deep learning for time series and images: transformers, GNNs, GANs, diffusion models 
