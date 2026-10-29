@@ -54,9 +54,9 @@ Researcher in physics, machine learning, and data science. Analytical modelling,
 
   Agentic retrieval-augmented assistant that searches, retrieves and summarises technical documents using LLMs, vector search and tool-use. 
 
-  [LINK]
+  https://github.com/ippocratiss/A-simple-chatbot-based-on-LLM-and-RAG-architecture
 ---
 
 ### Tools
 
-Python, PyTorch, TensorFlow · CUDA, HPC, Fortran · Bayesian and probabilistic inference, inverse modelling, uncertainty quantification · Deep learning for time series and images: transformers, GNNs, GANs, diffusion models 
+Python, PyTorch, TensorFlow · CUDA, HPC, Fortran · Bayesian and probabilistic inference · Inverse modelling · Deep learning for time series and images: transformers, RNNs, GNNs, GANs, Diffusion models 
