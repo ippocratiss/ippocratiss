@@ -59,4 +59,4 @@ Researcher in physics, machine learning, and data science. Analytical modelling,
 
 ### Tools
 
-Python (PyTorch, TensorFlow), Fortran · CUDA, GPU clusters, Slurm, Docker · Bayesian inference, inverse modelling, time series, transformers, generative models, diffusion models, GNNs, LLMs, agentic AI
+Python (PyTorch, TensorFlow), Fortran · CUDA, · Bayesian inference and inverse modelling, transformers, diffusion models, GNNs, LLMs, agents
