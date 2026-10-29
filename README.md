@@ -54,7 +54,7 @@ Researcher in physics, machine learning, and data science. Analytical modelling,
 
   Agentic retrieval-augmented assistant that searches, retrieves and summarises technical documents using LLMs, vector search and tool-use. 
 
-  https://github.com/ippocratiss/A-simple-chatbot-based-on-LLM-and-RAG-architecture
+  https://github.com/ippocratiss/A-simple-chatbot-based-on-LLM-and-RAG-architecture-
 ---
 
 ### Tools
