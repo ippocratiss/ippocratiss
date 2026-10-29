@@ -1,4 +1,4 @@
-3## Ippocratis Saltas, PhD
+## Ippocratis Saltas, PhD
 
 Researcher in physics, machine learning, and data science. Analytical modelling, end-to-end building of ML and AI systems, and high-performance computing pipelines for analysis and Bayesian parameter inference.
 
