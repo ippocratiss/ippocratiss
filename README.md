@@ -1,62 +1,58 @@
-# Ippocratis Saltas, PhD
+## Ippocratis Saltas, PhD
 
-Theoretical physicist by training, working on machine learning, Bayesian statistics, and fundamental physics.  
-
+Researcher in physics, machine learning, and data science. Analytical modelling, end-to-end building of ML and AI systems, and high-performance computing pipelines for analysis and Bayesian parameter inference.
 
 ---
 
-### Recent projects
-- **Pre-trained transformer inference towards a foundation model for astrophysical time series**
-  
-    Pre-trained model for inference of gravitational-wave signals with domain adaptation, accelerated training and performance. Based predominantly on transformer-encoder architecture and Bert-style pretraining.
-  
-    https://github.com/GraviBERT/GraviBERT
- 
--  **GPU-based Bayesian inference for gravitational waves**
-  
-   A GPU/cuda-accelerated code for simulation Bayesian forecasts for gravitational-wave time series.
-   
-   [EMRI_MC](https://github.com/ippocratiss/EMRI_MC) 
+### Example projects
 
-- **Deep learning for chaos detection**
-  
-  Anomaly detection model for chaotic dynamics in dynamical systems with deep convolutional networks.
-  
+- **GraviBERT — Pre-trained transformer model for gravitational-wave time series**
+
+  Pre-trained transformer (BERT-style) that learns universal waveform patterns and adapts to new detectors and modelling assumptions. 15× faster inference and 40% accuracy improvement over conventional approaches.
+
+  https://github.com/GraviBERT/GraviBERT
+
+- **EMRI_MC — GPU-accelerated Bayesian inference for the LISA satellite**
+
+  CUDA-accelerated open-source pipeline for simulation and Bayesian parameter estimation of gravitational-wave signals detectable by ESA's LISA mission. 70% runtime reduction on large-scale datasets.
+
+  [EMRI_MC](https://github.com/ippocratiss/EMRI_MC)
+
+
+- **Deep learning classifier for non-linear anomaly detection**
+
+  Anomaly detection model for non-linear chaotic orbits chaotic in 2D phase spaces using deep convolutional networks. 95% precision.
+
   https://github.com/ippocratiss/Deep-classifier-for-chaos-and-order
 
-- **Generative-adversarial-network-for-complex-systems**
 
-  Generative model which learns and reconstructs chaotic dynamical systems. 
+- **Probabilistic deep learning for neutron star inverse modelling**
 
-   https://github.com/ippocratiss/Generative-adversarial-network-for-complex-systems
+  Probabilistic deep learning pipeline for inferring the equation of state of dense matter in neutron stars, with uncertainty quantification. End-to-end: data generation, training, and evaluation.
 
--  **Deep network pipeline for Bayesian inverse modelling of neutron stars**
-  
-    Bayesian deep learning pipeline to solve the inverse problem of inferring the state of dense matter in neutron stars. Based predominantly on probabilistic Bayesian neural networks.
+  https://github.com/ippocratiss/Deep-learning-inference-of-the-neutron-star-equation-of-state
 
-    https://github.com/ippocratiss/Deep-learning-inference-of-the-neutron-star-equation-of-state
+- **Weather forecasting with GNNs and RNNs**
 
--  **Weather forecasting with Graph Neural Networks**
+  1) Graph Neural Network using UK weather stations as nodes. >95% accuracy on temperature forecasting.
+     https://github.com/ippocratiss/Weather_GNN
 
-  The model uses weather stations as nodes to predict the weather in the UK. It achieves > 95% accuracy on temperature forecasting. 
-  
-    https://github.com/ippocratiss/minRNNs-for-weather-prediction
-   
-    https://github.com/ippocratiss/Weather_GNN
+  2) Minimal RNN variant for weather prediction.
+     https://github.com/ippocratiss/minRNNs-for-weather-prediction
 
+- **RAG/LLM knowledge assistant**
+
+  Agentic retrieval-augmented assistant that searches, retrieves and summarises technical documents using LLMs, vector search and tool-use. Deployed internally for 20+ users.
+
+  [LINK]
+
+- **GAN for complex dynamical systems**
+
+  Generative model that learns and reconstructs the phase space of chaotic dynamical systems using Generative Adversarial Networks (GANs).
+
+  https://github.com/ippocratiss/Generative-adversarial-network-for-complex-systems
 ---
 
-### Tools & interests
+### Tools
 
-- Python (PyTorch, TensorFlow), Fortran
-- High-performance & GPU computing (Predominantly Cuda)
-- Bayesian inference and inverse modelling, time series, transformers, generative models, diffusion models, graph neural networks, LLMs, agentic AI.
-
----
-
-### Publications
-A full list of publications and research statistics can be found through the following link:
-
-https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20saltas%2Ci&ui-citation-summary=true
-
----
+Python (PyTorch, TensorFlow), Fortran · CUDA, GPU clusters, Slurm, Docker · Bayesian inference, inverse modelling, time series, transformers, generative models, diffusion models, GNNs, LLMs, agentic AI
